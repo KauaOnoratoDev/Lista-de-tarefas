@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 16px;
+    justify-content: center;
+    display: grid;
+}
+
+.container h2 {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+ul {
+    padding: 8px;
+}
+
+button, ul li p {
+    cursor: pointer;
+}
